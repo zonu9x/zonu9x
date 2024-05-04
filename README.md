@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @zonu9x
+- 👋 Hi, I’m SONUDAS
 - 👀 I’m interested in python programing
-- 🌱 I’m currently learning python django
+- 🌱 I’m currently doing internship in python django
 - 💞️ I’m looking to collaborate on a good company to increase my skills
 - 📫 Reach me on whatsapp- 9961852974
 - 😄 Pronouns: 
